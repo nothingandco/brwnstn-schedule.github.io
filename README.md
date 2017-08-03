@@ -1,1 +1,1 @@
-# brwnstn_schedule
+# brwnstn-schedule
